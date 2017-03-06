@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaRH.View", "SistemaRH.View\SistemaRH.View.csproj", "{597D00DB-912E-4BC5-8905-67D9DAADCD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaRH.Model", "SistemaRH.Model\SistemaRH.Model.csproj", "{F7319C2D-4981-4793-986E-208B0101BD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597D00DB-912E-4BC5-8905-67D9DAADCD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597D00DB-912E-4BC5-8905-67D9DAADCD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597D00DB-912E-4BC5-8905-67D9DAADCD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597D00DB-912E-4BC5-8905-67D9DAADCD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7319C2D-4981-4793-986E-208B0101BD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7319C2D-4981-4793-986E-208B0101BD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7319C2D-4981-4793-986E-208B0101BD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7319C2D-4981-4793-986E-208B0101BD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
